@@ -9,10 +9,13 @@ layout: default
 {% endif %}
 
 <div class="post">
-  <header class="post-header">
+<header class="post-header">
+  {% if page.show_title %}
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-description">{{ page.description }}</p>
-  </header>
+  {% endif %}
+</header>
+
 
   <article>
     {{ content }}

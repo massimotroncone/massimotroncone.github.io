@@ -7,7 +7,9 @@ nav: true
 nav_order: 3
 ---
 
-<div style="margin-bottom: 30px;"></div> <!-- space -->
+#### **Teaching**
+
+<div style="margin-bottom: 20px;"></div> <!-- Increase space below "Working Papers" -->
 
 + **Contemporary European Politics** (Spring 2022, 2023) <br/>
 ETH Zurich, graduate course, *co-lecturer*
