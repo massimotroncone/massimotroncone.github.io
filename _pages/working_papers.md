@@ -21,7 +21,7 @@ nav_order: 2
 <div style="margin-bottom: 10px;">
   <span style="margin-right: 5px;">1.</span>
   <strong>Malapportionment, Legislator Effort and the Representation of District Interests. Evidence from the Italian Senate.</strong> 
-  <em style="margin-left: 5px;">Submitted</em>
+  <em style="margin-left: 5px;">Under Review</em>
 </div>
 
 <!-- Separate links for PDF download, abstract, and OSF preprint -->
