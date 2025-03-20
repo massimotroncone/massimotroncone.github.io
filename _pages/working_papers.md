@@ -73,7 +73,7 @@ function myFunction1() {
 <div style="margin-bottom: 10px;">
   <span style="margin-right: 5px;">2.</span>
   <strong>Who Pays for the Church? Political Connections and Religious Clientelism in Post-War Italy.</strong> 
-  <span style="margin-left: 5px;">(with Roberto Valli)</span>
+  <span style="margin-left: 5px;">(with Roberto Valli).</span><em style="margin-left: 5px;">Under Review</em>
 </div>
 
 <!-- Separate links for PDF download, abstract, and OSF preprint for second paper -->
