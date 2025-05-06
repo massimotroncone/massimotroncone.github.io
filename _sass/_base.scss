@@ -375,6 +375,9 @@ ul.task-list input[type="checkbox"] {
   &:hover {
     color: var(--global-hover-color);
   }
+
+  /* Add this to hide the button */
+  display: none !important;
 }
 
 // Social (bottom)
