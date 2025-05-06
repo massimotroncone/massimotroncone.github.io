@@ -19,6 +19,54 @@ nav_order: 2
 <div style="margin-bottom: 20px;"></div> <!-- Increase space below "Working Papers" -->
 
 <div style="margin-bottom: 10px;">
+  <span style="margin-right: 5px;">2.</span>
+  <strong>Who Pays for the Church? Political Connections and Religious Clientelism in Post-War Italy.</strong> 
+  <span style="margin-left: 5px;">(with Roberto Valli).</span><em style="margin-left: 5px;">Under Review</em>
+</div>
+
+<!-- Separate links for PDF download, abstract, and OSF preprint for second paper -->
+<div style="display: flex; align-items: center; margin: 10px 0; color: #808080;"> <!-- Align items in one line -->
+
+  <!-- Dropdown for abstract -->
+  <button class="btn" style="font-size: 9px; height: 21px; padding: 0 10px; margin-right: 10px; text-transform: none; background-color: #ffffff; color: #b509ac; border: 1px solid #b509ac; border-radius: 5px; transition: background-color 0.3s, color 0.3s; box-shadow: none;" 
+          onmouseover="this.style.backgroundColor='#b509ac'; this.style.color='#ffffff';" 
+          onmouseout="this.style.backgroundColor='#ffffff'; this.style.color='#b509ac';" 
+          onclick="myFunction2()">Abstract</button>
+
+  <!-- PDF link -->
+  <a href="https://www.dropbox.com/scl/fi/zqahb44zuk1e96awb6j1p/troncone_valli_churches.pdf?rlkey=3f8hcgxfm9zd2z6udq69kgk6b&st=a6d2okq2&dl=0" target="_blank" 
+     style="text-decoration: none; background-color: #ffffff; color: #b509ac; border: 1px solid #b509ac; border-radius: 5px; padding: 0 10px; margin-right: 10px; transition: background-color 0.3s, color 0.3s; display: flex; align-items: center; justify-content: center; height: 21px; font-size: 9px;"
+     onmouseover="this.style.backgroundColor='#b509ac'; this.style.color='#ffffff';" 
+     onmouseout="this.style.backgroundColor=''; this.style.color='#b509ac';">
+     <i class="fa fa-download" style="margin-right: 5px;"></i>PDF
+  </a>
+
+  <!-- Preprint link -->
+  <a href="https://doi.org/10.31219/osf.io/nsyc3" target="_blank" 
+     style="text-decoration: none; background-color: #ffffff; color: #b509ac; border: 1px solid #b509ac; border-radius: 5px; padding: 0 10px; transition: background-color 0.3s, color 0.3s; display: flex; align-items: center; justify-content: center; height: 21px; font-size: 9px;"
+     onmouseover="this.style.backgroundColor='#b509ac'; this.style.color='#ffffff';" 
+     onmouseout="this.style.backgroundColor=''; this.style.color='#b509ac';">Preprint</a>
+</div>
+
+<div id="myDIV2" style="display: none; margin-top: 5px; padding: 10px; border: 1px solid #808080; background-color: #f9f9f9;">
+  <p>Community leaders often mobilize support for politicians in exchange for rents. Yet, this relationship can be contentious, as both actors might shirk on their commitments. Given this uncertainty, little is known about when and how politicians reciprocate the brokerage of community leaders. We argue that politicians exploit pre-existing personal connections with community leaders to overcome commitment problems and secure support. In turn, politicians provide rewards that increase the brokers' status. We illustrate this argument by investigating exchanges between Catholic bishops and Christian Democratic politicians in postwar Italy. We combine information on the renovation of Catholic churches with data on personal connections between politicians and bishops. Difference-in-differences estimates indicate that bishops mobilize support for connected politicians. Once elected, the latter reward connected bishops with investments in church renovations, especially when they compete under electoral rules that incentivize intraparty competition. These findings illustrate important conditions and mechanisms underpinning clientelistic relationships.</p>
+</div>
+
+<script>
+function myFunction2() {
+    var x = document.getElementById("myDIV2");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
+
+<div style="margin-bottom: 20px;"></div> <!-- space -->
+
+
+<div style="margin-bottom: 10px;">
   <span style="margin-right: 5px;">1.</span>
   <strong>Malapportionment, Legislator Effort and the Representation of District Interests. Evidence from the Italian Senate.</strong> 
   <em style="margin-left: 5px;">Under Review</em>
@@ -64,58 +112,6 @@ function myFunction1() {
     }
 }
 </script>
-
-
-
-
-<div style="margin-bottom: 20px;"></div> <!-- space -->
-
-<div style="margin-bottom: 10px;">
-  <span style="margin-right: 5px;">2.</span>
-  <strong>Who Pays for the Church? Political Connections and Religious Clientelism in Post-War Italy.</strong> 
-  <span style="margin-left: 5px;">(with Roberto Valli).</span><em style="margin-left: 5px;">Under Review</em>
-</div>
-
-<!-- Separate links for PDF download, abstract, and OSF preprint for second paper -->
-<div style="display: flex; align-items: center; margin: 10px 0; color: #808080;"> <!-- Align items in one line -->
-
-  <!-- Dropdown for abstract -->
-  <button class="btn" style="font-size: 9px; height: 21px; padding: 0 10px; margin-right: 10px; text-transform: none; background-color: #ffffff; color: #b509ac; border: 1px solid #b509ac; border-radius: 5px; transition: background-color 0.3s, color 0.3s; box-shadow: none;" 
-          onmouseover="this.style.backgroundColor='#b509ac'; this.style.color='#ffffff';" 
-          onmouseout="this.style.backgroundColor='#ffffff'; this.style.color='#b509ac';" 
-          onclick="myFunction2()">Abstract</button>
-
-  <!-- PDF link -->
-  <a href="https://www.dropbox.com/scl/fi/zqahb44zuk1e96awb6j1p/troncone_valli_churches.pdf?rlkey=3f8hcgxfm9zd2z6udq69kgk6b&st=a6d2okq2&dl=0" target="_blank" 
-     style="text-decoration: none; background-color: #ffffff; color: #b509ac; border: 1px solid #b509ac; border-radius: 5px; padding: 0 10px; margin-right: 10px; transition: background-color 0.3s, color 0.3s; display: flex; align-items: center; justify-content: center; height: 21px; font-size: 9px;"
-     onmouseover="this.style.backgroundColor='#b509ac'; this.style.color='#ffffff';" 
-     onmouseout="this.style.backgroundColor=''; this.style.color='#b509ac';">
-     <i class="fa fa-download" style="margin-right: 5px;"></i>PDF
-  </a>
-
-  <!-- Preprint link -->
-  <a href="https://doi.org/10.31219/osf.io/nsyc3" target="_blank" 
-     style="text-decoration: none; background-color: #ffffff; color: #b509ac; border: 1px solid #b509ac; border-radius: 5px; padding: 0 10px; transition: background-color 0.3s, color 0.3s; display: flex; align-items: center; justify-content: center; height: 21px; font-size: 9px;"
-     onmouseover="this.style.backgroundColor='#b509ac'; this.style.color='#ffffff';" 
-     onmouseout="this.style.backgroundColor=''; this.style.color='#b509ac';">Preprint</a>
-</div>
-
-<div id="myDIV2" style="display: none; margin-top: 5px; padding: 10px; border: 1px solid #808080; background-color: #f9f9f9;">
-  <p>Community leaders often mobilize support for politicians in exchange for rents. Yet, this relationship can be contentious, as both actors might shirk on their commitments. Given this uncertainty, little is known about when and how politicians reciprocate the brokerage of community leaders. We argue that politicians exploit pre-existing personal connections with community leaders to overcome commitment problems and secure support. In turn, politicians provide rewards that increase the brokers' status. We illustrate this argument by investigating exchanges between Catholic bishops and Christian Democratic politicians in postwar Italy. We combine information on the renovation of Catholic churches with data on personal connections between politicians and bishops. Difference-in-differences estimates indicate that bishops mobilize support for connected politicians. Once elected, the latter reward connected bishops with investments in church renovations, especially when they compete under electoral rules that incentivize intraparty competition. These findings illustrate important conditions and mechanisms underpinning clientelistic relationships.</p>
-</div>
-
-<script>
-function myFunction2() {
-    var x = document.getElementById("myDIV2");
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
-    }
-}
-</script>
-
-
 
 <div style="margin-bottom: 20px;"></div> <!-- space -->
 
