@@ -19,9 +19,9 @@ nav_order: 2
 <div style="margin-bottom: 20px;"></div> <!-- Increase space below "Working Papers" -->
 
 <div style="margin-bottom: 10px;">
-  <span style="margin-right: 5px;">2.</span>
+  <span style="margin-right: 5px;">1.</span>
   <strong>Who Pays for the Church? Political Connections and Religious Clientelism in Post-War Italy.</strong> 
-  <span style="margin-left: 5px;">(with Roberto Valli).</span><em style="margin-left: 5px;">Under Review</em>
+  <span style="margin-left: 5px;">(with Roberto Valli).</span><em style="margin-left: 5px;">Revise and Resubmit</em>
 </div>
 
 <!-- Separate links for PDF download, abstract, and OSF preprint for second paper -->
@@ -67,7 +67,7 @@ function myFunction2() {
 
 
 <div style="margin-bottom: 10px;">
-  <span style="margin-right: 5px;">1.</span>
+  <span style="margin-right: 5px;">2.</span>
   <strong>Malapportionment, Legislator Effort and the Representation of District Interests. Evidence from the Italian Senate.</strong> 
   <em style="margin-left: 5px;">Under Review</em>
 </div>
