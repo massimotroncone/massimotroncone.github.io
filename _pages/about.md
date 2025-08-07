@@ -24,4 +24,4 @@ My research lies at the intersection of distributive politics and electoral inst
 
 I earned my PhD in Political Science at [ETH Zurich](https://eup.ethz.ch/) in August 2024 and was a visiting PhD student at [Washington University in St. Louis](https://polisci.wustl.edu/) in 2022.
 
-On this page, you can find information about my research. Feel free to [drop me an email](mailto::massimo.troncone@eup.gess.ethz.ch).
+On this page, you can find information about my research. Feel free to [drop me an email](mailto:mt6068@nyu.edu).
