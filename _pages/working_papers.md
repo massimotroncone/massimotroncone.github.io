@@ -99,7 +99,18 @@ function myFunction2() {
 
 
 <div id="myDIV" style="display: none; margin-top: 5px; padding: 10px; border: 1px solid #808080; background-color: #f9f9f9;">
-  <p>This paper studies the effect of malapportionment on policymaking. I argue that in malapportioned chambers, policymaking is biased in favor of overrepresented districts via a mechanical and a behavioral effect. Using data on the Italian Senate and a regression discontinuity design, I first show that multi-tier electoral systems can cause malapportionment by allowing districts with similar population sizes to elect different numbers of legislators. I then demonstrate that the local interests of overrepresented districts receive disproportionately greater attention in bill sponsorship. The effect is driven not only by the election of the additional legislator but also by the increased activism of legislators from overrepresented districts. Both geographically targeted and sectoral bills contribute to this bias. The results demonstrate the political consequences of unequal geographic representation.</p>
+  <p>How does unequal representation affect policymaking? It is widely assumed that overrepresented
+districts exert greater influence over policy, yet isolating the effects of representation
+from underlying district characteristics remains both theoretically and empirically challenging.
+I argue that increased representation can independently bias policymaking via two
+channels: a mechanical effect, whereby increased representation raises a district’s probability
+of setting the agenda, and a behavioral effect, where legislators intensify their efforts due
+to intra-district competition. To test this, I leverage the quasi-experimental setting created
+by the electoral rule of the Italian Senate (1994-2006), which allowed districts with similar
+population sizes to elect either one or two senators. Using a regression discontinuity design
+and comprehensive data on bill (co-)sponsorship, I find evidence supporting both channels.
+Examining policy outcomes, I do not find that unequal representation yields distributive
+benefits, but I do find suggestive evidence of a broader legislative advantage.</p>
 </div>
 
 <script>

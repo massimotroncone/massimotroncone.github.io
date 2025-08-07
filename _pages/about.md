@@ -18,7 +18,7 @@ profile:
 #social: true  includes social icons at the bottom of the page
 ---
 
-I am a political scientist working on elections and political representation. Currently, I am a Postdoctoral Researcher at [ETH Zurich](https://eup.ethz.ch/). Starting in September 2025, I will be a Postdoctoral Fellow at [NYU](https://as.nyu.edu/departments/politics.html).
+I am a political scientist working on elections and political representation. Starting in September 2025, I will be a Postdoctoral Fellow at [NYU](https://as.nyu.edu/departments/politics.html).
 
 My research lies at the intersection of distributive politics and electoral institutions. I study the distribution of public resources with a focus on legislative politics, clientelism and re-election incentives. I am also interested in public opinion and voting behavior, with particular attention to ethnic minorities. My work typically combines observational data with methods for causal inference.
 
