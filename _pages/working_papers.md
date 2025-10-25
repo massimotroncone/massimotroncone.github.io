@@ -45,8 +45,8 @@ nav_order: 2
   <!-- <a href="https://doi.org/10.31219/osf.io/nsyc3" target="_blank" 
      style="text-decoration: none; background-color: #ffffff; color: #b509ac; border: 1px solid #b509ac; border-radius: 5px; padding: 0 10px; transition: background-color 0.3s, color 0.3s; display: flex; align-items: center; justify-content: center; height: 21px; font-size: 9px;"
      onmouseover="this.style.backgroundColor='#b509ac'; this.style.color='#ffffff';" 
-     onmouseout="this.style.backgroundColor=''; this.style.color='#b509ac';">Preprint</a>
-</div>-->
+     onmouseout="this.style.backgroundColor=''; this.style.color='#b509ac';">Preprint</a>-->
+</div>
 
 <div id="myDIV2" style="display: none; margin-top: 5px; padding: 10px; border: 1px solid #808080; background-color: #f9f9f9;">
   <p>Community leaders often mobilize support for politicians in exchange for rents. Yet, this relationship can be contentious, as both actors might shirk on their commitments. Given this uncertainty, little is known about when and how politicians reciprocate the brokerage of community leaders. We argue that politicians exploit pre-existing personal connections with community leaders to overcome commitment problems and secure support. In turn, politicians provide rewards that increase the brokers' status. We illustrate this argument by investigating exchanges between Catholic bishops and Christian Democratic politicians in postwar Italy. We combine information on the renovation of Catholic churches with data on personal connections between politicians and bishops. Difference-in-differences estimates indicate that bishops mobilize support for connected politicians. Once elected, the latter reward connected bishops with investments in church renovations, especially when they compete under electoral rules that incentivize intraparty competition. These findings illustrate important conditions and mechanisms underpinning clientelistic relationships.</p>
@@ -140,8 +140,8 @@ function myFunction1() {
   <!--<a href="https://doi.org/10.31219/osf.io/rgz9t" target="_blank" 
      style="text-decoration: none; background-color: #ffffff; color: #b509ac; border: 1px solid #b509ac; border-radius: 5px; padding: 0 10px; transition: background-color 0.3s, color 0.3s; display: flex; align-items: center; justify-content: center; height: 21px; font-size: 9px;"
      onmouseover="this.style.backgroundColor='#b509ac'; this.style.color='#ffffff';" 
-     onmouseout="this.style.backgroundColor=''; this.style.color='#b509ac';">Preprint</a>
-</div>-->
+     onmouseout="this.style.backgroundColor=''; this.style.color='#b509ac';">Preprint</a>-->
+</div>
 
 <div id="myDIV3" style="display: none; margin-top: 5px; padding: 10px; border: 1px solid #808080; background-color: #f9f9f9;">
   <p>This article argues that in a context of widespread clientelism and poverty, local public goods provision is a tool for mass patronage. Clientelistic incumbents under threat entice economically vulnerable voters into supporting the regime by creating jobs in the construction sector through infrastructural investments. The theory is tested using data on public works projects funded by the Cassa del Mezzogiorno, a massive place-based policy for the development of Southern Italy introduced after WWII. Empirically, I exploit within-politician shocks in competition induced by the electoral rule of the post-war Italian Senate. The results reveal that public works investments increase when Christian democratic senators are threatened in their own districts by the election of a communist senator, that this effect is particularly strong in areas characterized by low levels of employment, and that this distribution generates electoral returns.</p>
@@ -200,8 +200,8 @@ function myFunction3() {
   <!-- <a href="https://doi.org/10.31219/osf.io/3zhtg" target="_blank" 
      style="text-decoration: none; background-color: #ffffff; color: #b509ac; border: 1px solid #b509ac; border-radius: 5px; padding: 0 10px; transition: background-color 0.3s, color 0.3s; display: flex; align-items: center; justify-content: center; height: 21px; font-size: 9px;"
      onmouseover="this.style.backgroundColor='#b509ac'; this.style.color='#ffffff';" 
-     onmouseout="this.style.backgroundColor=''; this.style.color='#b509ac';">Preprint</a>
-</div>-->
+     onmouseout="this.style.backgroundColor=''; this.style.color='#b509ac';">Preprint</a>-->
+</div>
 
 <div id="myDIV4" style="display: none; margin-top: 5px; padding: 10px; border: 1px solid #808080; background-color: #f9f9f9;">
   <p>This article proposes a novel theory of minority status and support for supranational integration. We argue that the gap in status and opportunities between majority and minority individuals affects the evaluation of international institutions. Individuals whose socioeconomic status and opportunities are restricted because of minority traits are more dissatisfied with national institutions and more favorable toward supranational integration than their majority counterparts. We test our theory on the European Union, the most advanced case of regional integration. Using different operationalizations of minority status and an exact matching strategy, we demonstrate a robust positive association between minority status and support for supranational integration. Testing the mechanisms, we present evidence that integration in the host country and discrimination drive these effects.</p>
