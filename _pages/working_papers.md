@@ -65,7 +65,6 @@ function myFunction2() {
 
 <div style="margin-bottom: 20px;"></div> <!-- space -->
 
-
 <div style="margin-bottom: 10px;">
   <span style="margin-right: 5px;">2.</span>
   <strong>Does Unequal Representation Bias Policymaking? Quasi-Experimental Evidence from the Italian Senate.</strong> 
@@ -93,9 +92,8 @@ function myFunction2() {
  <!-- <a href="https://doi.org/10.31219/osf.io/3s2x9" target="_blank" 
      style="text-decoration: none; background-color: #ffffff; color: #b509ac; border: 1px solid #b509ac; border-radius: 5px; padding: 0 10px; transition: background-color 0.3s, color 0.3s; display: flex; align-items: center; justify-content: center; height: 21px; font-size: 9px;"
      onmouseover="this.style.backgroundColor='#b509ac'; this.style.color='#ffffff';" 
-     onmouseout="this.style.backgroundColor=''; this.style.color='#b509ac';">Preprint</a>
-</div> -->
-
+     onmouseout="this.style.backgroundColor=''; this.style.color='#b509ac';">Preprint</a> -->
+</div> 
 
 <div id="myDIV" style="display: none; margin-top: 5px; padding: 10px; border: 1px solid #808080; background-color: #f9f9f9;">
   <p>How does unequal representation affect policymaking?  It is widely assumed that overrepresented districts exert greater influence over policy, yet isolating the effects of  representation from underlying district characteristics remains both theoretically and empirically challenging. I argue that increased representation can independently bias policymaking via two channels: a mechanical effect, whereby increased representation raises a district’s probability of setting the agenda, and a behavioral effect, where legislators intensify their efforts due to intra-district competition. To test this, I leverage the quasi-experimental setting created by the electoral rule of the Italian Senate (1994-2006), which allowed districts with similar population sizes to elect either one or two senators. Using a regression discontinuity design and comprehensive data on bill (co-)sponsorship, I find evidence supporting both channels. Examining policy outcomes, I do not find that unequal representation yields distributive benefits, but I do find suggestive evidence of a broader legislative advantage.</p>
@@ -239,8 +237,8 @@ function myFunction4() {
 <!-- <a href="https://doi.org/10.31219/osf.io/rz4tu" target="_blank" 
      style="text-decoration: none; background-color: #ffffff; color: #b509ac; border: 1px solid #b509ac; border-radius: 5px; padding: 0 10px; transition: background-color 0.3s, color 0.3s; display: flex; align-items: center; justify-content: center; height: 21px; font-size: 9px;"
      onmouseover="this.style.backgroundColor='#b509ac'; this.style.color='#ffffff';" 
-     onmouseout="this.style.backgroundColor=''; this.style.color='#b509ac';">Preprint</a>
-</div> -->  
+     onmouseout="this.style.backgroundColor=''; this.style.color='#b509ac';">Preprint</a> --> 
+</div>  
 
 <div id="myDIV5" style="display: none; margin-top: 5px; padding: 10px; border: 1px solid #808080; background-color: #f9f9f9;">
   <p>Previous research on party preferences has assumed that individual partisanship is unaffected by electoral outcomes, focusing instead on its pre-electoral dynamics. Our research note challenges this assumption by demonstrating that electoral outcomes can cause significant partisan shifts among voters. We argue that electoral losers are more likely to distance themselves from unsuccessful parties, while winners remain safely attached to the bandwagon. To demonstrate this, we first use household panel surveys from four European countries to establish that voters who supported declining parties are more likely to change party support in favor of gaining parties. Second, we show that individual-level partisan changes aggregate to meaningful public opinion shifts at the national level. To this purpose, we leverage monthly opinion polls for political parties across 17 European democracies and find that declining parties lose support among the electorate. Our results highlight a new dimension of post-electoral politics with implications for empirical research.</p>
