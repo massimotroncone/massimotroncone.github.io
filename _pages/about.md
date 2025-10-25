@@ -18,10 +18,8 @@ profile:
 #social: true  includes social icons at the bottom of the page
 ---
 
-I am a political scientist working on elections and political representation. Starting in September 2025, I will be a Postdoctoral Fellow at [NYU](https://as.nyu.edu/departments/politics.html).
+I am Postdoctoral Fellow at the Wilf Family Department of Politics at [NYU](https://as.nyu.edu/departments/politics.html). My research is funded by the Swiss National Science Foundation.
 
-My research lies at the intersection of distributive politics and electoral institutions. I study the distribution of public resources with a focus on legislative politics, clientelism and re-election incentives. I am also interested in public opinion and voting behavior, with particular attention to ethnic minorities. My work typically combines observational data with methods for causal inference.
-
-I earned my PhD in Political Science at [ETH Zurich](https://eup.ethz.ch/) in August 2024 and was a visiting PhD student at [Washington University in St. Louis](https://polisci.wustl.edu/) in 2022.
+My work lies at the intersection of distributive politics and electoral institutions. I study how public resources are allocated, with a focus on legislative politics, clientelism, and re-election incentives. I typically combine observational data with methods for causal inference.
 
 On this page, you can find information about my research. Feel free to [drop me an email](mailto:mt6068@nyu.edu).
