@@ -127,12 +127,12 @@ function myFunction1() {
           onclick="myFunction3()">Abstract</button>
 
   <!-- PDF link -->
-  <a href="https://www.dropbox.com/scl/fi/827p384ifb3b6un3xjs7p/casmez_ita.pdf?rlkey=vfh9ytp51o0eau2b6zxx5c6bi&st=41usrtro&dl=0" target="_blank" 
+<!--<a href="https://www.dropbox.com/scl/fi/827p384ifb3b6un3xjs7p/casmez_ita.pdf?rlkey=vfh9ytp51o0eau2b6zxx5c6bi&st=41usrtro&dl=0" target="_blank" 
      style="text-decoration: none; background-color: #ffffff; color: #b509ac; border: 1px solid #b509ac; border-radius: 5px; padding: 0 10px; margin-right: 10px; transition: background-color 0.3s, color 0.3s; display: flex; align-items: center; justify-content: center; height: 21px; font-size: 9px;"
      onmouseover="this.style.backgroundColor='#b509ac'; this.style.color='#ffffff';" 
      onmouseout="this.style.backgroundColor=''; this.style.color='#b509ac';">
      <i class="fa fa-download" style="margin-right: 5px;"></i>PDF
-  </a>
+  </a>-->
 
 <!-- Preprint link-->
   <!--<a href="https://doi.org/10.31219/osf.io/rgz9t" target="_blank" 
