@@ -65,7 +65,7 @@ function myFunction1() {
 
 <div style="margin-bottom: 10px;">
   <span style="margin-right: 5px;">1.</span>
-  <strong>Who Pays for the Church? Political Connections and Religious Clientelism in Post-War Italy.</strong> 
+  <strong>Who Pays for the Church? Religious Clientelism and Broker Compensation in Postwar Italy.</strong> 
   <span style="margin-left: 5px;">(with Roberto Valli).</span><em style="margin-left: 5px;">Revise and Resubmit</em>
 </div>
 
@@ -79,7 +79,7 @@ function myFunction1() {
           onclick="myFunction2()">Abstract</button>
 
   <!-- PDF link -->
-  <a href="https://www.dropbox.com/scl/fi/zqahb44zuk1e96awb6j1p/troncone_valli_churches.pdf?rlkey=3f8hcgxfm9zd2z6udq69kgk6b&st=a6d2okq2&dl=0" target="_blank" 
+  <a href="https://osf.io/preprints/osf/nsyc3_v3" target="_blank" 
      style="text-decoration: none; background-color: #ffffff; color: #b509ac; border: 1px solid #b509ac; border-radius: 5px; padding: 0 10px; margin-right: 10px; transition: background-color 0.3s, color 0.3s; display: flex; align-items: center; justify-content: center; height: 21px; font-size: 9px;"
      onmouseover="this.style.backgroundColor='#b509ac'; this.style.color='#ffffff';" 
      onmouseout="this.style.backgroundColor=''; this.style.color='#b509ac';">
@@ -94,7 +94,7 @@ function myFunction1() {
 </div>
 
 <div id="myDIV2" style="display: none; margin-top: 5px; padding: 10px; border: 1px solid #808080; background-color: #f9f9f9;">
-  <p>Community leaders often mobilize support for politicians in exchange for rents. Yet, this relationship can be contentious, as both actors might shirk on their commitments. Given this uncertainty, little is known about when and how politicians reciprocate the brokerage of community leaders. We argue that politicians exploit pre-existing personal connections with community leaders to overcome commitment problems and secure support. In turn, politicians provide rewards that increase the brokers' status. We illustrate this argument by investigating exchanges between Catholic bishops and Christian Democratic politicians in postwar Italy. We combine information on the renovation of Catholic churches with data on personal connections between politicians and bishops. Difference-in-differences estimates indicate that bishops mobilize support for connected politicians. Once elected, the latter reward connected bishops with investments in church renovations, especially when they compete under electoral rules that incentivize intraparty competition. These findings illustrate important conditions and mechanisms underpinning clientelistic relationships.</p>
+  <p>In many contexts, religious leaders mobilize support for allied politicians. These mobilization efforts are often assumed to be part of brokerage agreements in which politicians provide material compensation once elected. Despite how common these arrangements are, little is known about how and when politicians compensate religious leaders for their electoral brokerage. We argue that politicians reward organization-embedded religious brokers by providing status-enhancing goods that increase their standing within the organization and the local community. We illustrate this type of compensation by investigating exchanges between Christian Democratic politicians and personally connected Catholic bishops in postwar Italy. Difference-in-differences estimates indicate that elected politicians reward connected bishops with investments in church renovations, that these investments are targeted to increase the prestige of bishops, and that electoral incentives shape patterns of broker compensation. These findings shed light on the reciprocal exchanges that underpin politician-clergy alliances in electoral democracies.</p>
 </div>
 
 <script>
