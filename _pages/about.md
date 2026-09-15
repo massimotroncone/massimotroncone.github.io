@@ -20,6 +20,6 @@ profile:
 
 I am Postdoctoral Fellow at the Wilf Family Department of Politics at [NYU](https://as.nyu.edu/departments/politics.html). My research is funded by the Swiss National Science Foundation.
 
-My work lies at the intersection of distributive politics and electoral institutions. I study how public resources are allocated, with a focus on legislative politics, clientelism, and re-election incentives. I typically combine observational data with methods for causal inference.
+My research sits at the intersection of comparative politics and political economy. I study how public resources are allocated, with a focus on clientelism, religious actors, and legislative politics. I typically combine observational data with methods for causal inference.
 
 On this page, you can find information about my research. Feel free to [drop me an email](mailto:mt6068@nyu.edu).
