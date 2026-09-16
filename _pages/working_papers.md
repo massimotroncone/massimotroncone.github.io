@@ -61,16 +61,14 @@ function myFunction1() {
 }
 </script>
 
-<div style="margin-bottom: 40px;"></div> <!-- space -->
-
-#### **Working Papers**
-
-<div style="margin-bottom: 20px;"></div> <!-- Increase space below "Working Papers" -->
+<div style="margin-bottom: 20px;"></div> <!-- space -->
 
 <div style="margin-bottom: 10px;">
-  <span style="margin-right: 5px;">1.</span>
-  <strong>Who Pays for the Church? Religious Clientelism and Broker Compensation in Postwar Italy.</strong> 
-  <span style="margin-left: 5px;">(with Roberto Valli).</span><em style="margin-left: 5px;">Revise and Resubmit</em>
+  <span style="margin-right: 5px;">2.</span>
+  <strong>Who Pays for the Church? Religious Clientelism and Broker Compensation in Postwar Italy.</strong>
+  <span style="margin-left: 5px;">(with Roberto Valli).</span>
+  <em style="margin-left: 5px;">American Journal of Political Science</em>
+  <span style="margin-left: 5px;">(Conditionally Accepted)</span>
 </div>
 
 <!-- Separate links for PDF download, abstract, and OSF preprint for second paper -->
@@ -89,12 +87,6 @@ function myFunction1() {
      onmouseout="this.style.backgroundColor=''; this.style.color='#b509ac';">
      <i class="fa fa-download" style="margin-right: 5px;"></i>PDF
   </a>
-
-<!-- Preprint link-->
-  <!-- <a href="https://doi.org/10.31219/osf.io/nsyc3" target="_blank" 
-     style="text-decoration: none; background-color: #ffffff; color: #b509ac; border: 1px solid #b509ac; border-radius: 5px; padding: 0 10px; transition: background-color 0.3s, color 0.3s; display: flex; align-items: center; justify-content: center; height: 21px; font-size: 9px;"
-     onmouseover="this.style.backgroundColor='#b509ac'; this.style.color='#ffffff';" 
-     onmouseout="this.style.backgroundColor=''; this.style.color='#b509ac';">Preprint</a>-->
 </div>
 
 <div id="myDIV2" style="display: none; margin-top: 5px; padding: 10px; border: 1px solid #808080; background-color: #f9f9f9;">
@@ -112,10 +104,14 @@ function myFunction2() {
 }
 </script>
 
-<div style="margin-bottom: 20px;"></div> <!-- space -->
+<div style="margin-bottom: 40px;"></div> <!-- space -->
+
+#### **Working Papers**
+
+<div style="margin-bottom: 20px;"></div> <!-- Increase space below "Working Papers" -->
 
 <div style="margin-bottom: 10px;">
-  <span style="margin-right: 5px;">2.</span>
+  <span style="margin-right: 5px;">1.</span>
   <strong>Religious Leaders and Distributive Politics in Southern Italy.</strong>
 </div>
 
